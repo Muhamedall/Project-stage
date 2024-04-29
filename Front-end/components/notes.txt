@@ -1,0 +1,12 @@
+  api key : AIzaSyDZylihqSZUWHa-ia9VAB5kDVOU-CW-LNI
+             chanel Id : UC4muHgvt5FNOUm-lxvMB6TQ
+             upload id : UU4muHgvt5FNOUm-lxvMB6TQ
+
+             Url :https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=10&playlistId=UU4muHgvt5FNOUm-lxvMB6TQ&key=AIzaSyDZylihqSZUWHa-ia9VAB5kDVOU-CW-LNI
+
+            Accept: application/json
+
+
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/7ff811ef-e183-4155-81ec-632ebdd301fd/WDoullFWj6.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
